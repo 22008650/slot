@@ -1,4 +1,4 @@
-# Experiment_TimeT_able
+# Experiment_Time_Table
 
 ## AIM
 To write a html webpage page to display your  timetable.
@@ -114,11 +114,11 @@ Execute the program
 ```
 
 ## OUTPUT
-![OUTPUT](http://malarvizhi.student.saveetha.in:8000/static/images/out.png?raw=true)
+![OUTPUT](timetable.png)
 
 
 ## HTML VALIDATOR
-![HTML VALIDATOR](http://malarvizhi.student.saveetha.in:8000/static/images/out.png?raw=true)
+![HTML VALIDATOR](valid.png)
 
 ## RESULT
 The program for creating slot time table is completed successfully.
