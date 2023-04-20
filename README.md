@@ -118,7 +118,7 @@ Execute the program
 
 
 ## HTML VALIDATOR
-![HTML VALIDATOR](valid.png)
+![HTML VALIDATOR](valiid.png)
 
 ## RESULT
 The program for creating slot time table is completed successfully.
